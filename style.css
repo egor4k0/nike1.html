@@ -1,0 +1,56 @@
+body{
+    font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
+    margin: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: inherit;
+   
+}
+h1{
+    
+    color: #000000;
+   
+    line-height: 32px;
+    margin-bottom: 12px;
+  
+}
+.inputka{
+    border: 1px solid black;
+    padding: 40px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+#userInput{
+    border: 1px solid gray;
+    padding: 10px;
+    font-size: 19px;
+    border-radius: 17px;
+    width: 500px;
+    height: 30px;
+}
+.placeholder{
+    font-size: 40px;
+}
+.polit{
+    opacity: 0.7;
+}
+button{
+    background: #000000;
+    color: aliceblue;
+    padding: 8px;
+    font-size: 20px;
+    border-radius: 25px;
+    margin-left: 380px; 
+   
+}
+button:hover{
+    opacity: 0.6;
+    box-shadow: 10px 5px 5px grey;
+    transition: 300ms;
+   
+}
+.nike{
+    width: 70px;
+    margin-top: 25px;
+}
